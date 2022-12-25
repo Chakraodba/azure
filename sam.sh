@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Fuck maha"
+echo "Fuck you dood"
